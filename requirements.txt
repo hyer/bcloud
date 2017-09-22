@@ -1,3 +1,6 @@
+# for Linux Mint 17.3
 keyring
 pycrypto==2.6.1
 lxml
+sudo pip3 install cssselect -i https://pypi.douban.com/simple
+sudo apt-get install gir1.2-appindicator3-0.1
